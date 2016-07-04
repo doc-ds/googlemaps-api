@@ -1,2 +1,3 @@
 # googlemaps-api
-google map api 
+
+To Include google map in html pages 
